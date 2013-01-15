@@ -2,7 +2,7 @@ control
 =======
 
 From a youtube video titled:
-> Experimenting with Node, Socket.io, and Phonegap - real-time accelerometer control
+> Experimenting with Node, Socket.io, and Phonegap - real-time accelerometer control  
 by Cody Shepp
 
 Youtube Video URL: http://www.youtube.com/watch?v=M5IAlnU96SI
@@ -11,7 +11,7 @@ Youtube Video URL: http://www.youtube.com/watch?v=M5IAlnU96SI
 Comment from Youtube by Cody Shepp
 ==================================
 
-*Published on 30 Jul 2012*
+**Published on 30 Jul 2012**  
 I made this little demo using Node.js, socket.io, and Phonegap. It has three parts - the server (control.js),
 the controller (gyro.html running in a phonegap app), and the display (index.html). The display is meant to
 run on a desktop or laptop (or even a tablet), while the controller app runs on any number of android phones.
