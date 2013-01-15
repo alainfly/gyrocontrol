@@ -3,6 +3,7 @@ control
 
 From a youtube video titled:
 > Experimenting with Node, Socket.io, and Phonegap - real-time accelerometer control  
+
 by Cody Shepp
 
 Youtube Video URL: http://www.youtube.com/watch?v=M5IAlnU96SI
